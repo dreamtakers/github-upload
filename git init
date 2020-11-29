@@ -1,0 +1,4 @@
+git remote add origin https://github.com/dreamtakers/github-upload.git
+get add
+git commit -m "initializing repository"
+git push -u origin main
